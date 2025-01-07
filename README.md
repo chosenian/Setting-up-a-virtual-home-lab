@@ -1,8 +1,8 @@
 # Setting-up-a-virtual-home-lab
 
 I built a free virtual IT lab from scratch on my home computer using open-source software.
- 
-In the early 2000s the only way one could have built an IT lab was to purchase physical servers or re-purpose old computers. While this can be very beneficial as far as IT experience and skills, it can be much faster simply to build a free virtualized IT lab.
+<p> </p>
+ <p>In the early 2000s the only way one could have built an IT lab was to purchase physical servers or re-purpose old computers. While this can be very beneficial as far as IT experience and skills, it can be much faster simply to build a free virtualized IT lab.</p>
  
 Let's dive in!
 
