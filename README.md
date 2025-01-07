@@ -81,7 +81,10 @@ Now you will see MyVM listed on the VirtualBox dashboard. Before we start the 
 <img src="Folder/VM-Settings.jpg">
  
 Increasing the processor CPUs can greatly improve the performance of your VM, so if at all possible increase the number of CPUs to 2.
-Pro tip: Storing the VM's hard disk file on an SSD will also significantly increase the VMs performance.
+<p>Pro tip: Storing the VM's hard disk file on an SSD will also significantly increase the VMs performance.</p>
+
+
+<img src="Folder/CPUs.jpg">
  
 And that is all we need to do to create the VM. Of course we can't start the VM yet because we haven't downloaded or attached an operating system ISO... But we will cover that in the next section.
 
