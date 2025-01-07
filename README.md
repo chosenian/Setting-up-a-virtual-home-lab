@@ -125,7 +125,9 @@ Using an Internal Network is as simple as right-clicking your VM and selecting S
 This is essentially the same as an internal network, except that your host computer will have a direct IP connection to the VM. Meaning you can RDP, SSH or ping the VMs from the host computer. Use this network type when you will need direct access to the VMs from your host computer. It is commonly used for test web servers (think copying files from the host computer to the VM web server, or directly editing the code on the web server VM from your host computer.
  
 You can create a host-only network by select File > Host Network Manager
- 
+
+
+ <img src="Folder/Host-Only-Network-Adapters.jpg">
 
 <h2>Generic Driver</h2>
 Oracles documentation for the generic driver states:
