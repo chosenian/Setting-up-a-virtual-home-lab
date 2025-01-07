@@ -75,6 +75,10 @@ This will open another window for creating the Virtual Hard Disk. The default o
  
 Since this HDD is going to be dynamically allocated (option on the middle-right of the screenshot below), the HDD file will only be as large as the amount of data stored on it - and a maximum of 60GB
 Now you will see MyVM listed on the VirtualBox dashboard. Before we start the VM we can modify the settings of the VM if we want. Generally you might want to assign more processors, change the networking adapters and mount an ISO.
+
+
+
+<img src="Folder/VM-Settings.jpg">
  
 Increasing the processor CPUs can greatly improve the performance of your VM, so if at all possible increase the number of CPUs to 2.
 Pro tip: Storing the VM's hard disk file on an SSD will also significantly increase the VMs performance.
