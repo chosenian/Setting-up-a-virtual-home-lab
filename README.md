@@ -22,7 +22,7 @@ I built a free virtual IT lab from scratch on my home computer using open-source
 <h2>Virtualization Overview</h2>
 
 <strong>So what is virtualization anyway?</strong> Basically, the IT term virtualization refers to the practice of emulating (or simulating) a computer. You can use a Virtual Machine to run a computer as an application on your host computer.
-On the image below - the top computer would be the host computer. The three computers below the host are referred to as guest virtual machines.
+<p>On the image below - the top computer would be the host computer. The three computers below the host are referred to as guest virtual machines.</p>
 
 <img src="Folder/Host+3 guest virtual machines.png">
 
