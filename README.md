@@ -60,6 +60,8 @@ Now that we know what type of virtual network we want to use it's time to create
 <img src="Folder/New.jpg">
  
 This will launch the new VM window. Go ahead and click the Expert Mode button. Don't worry - it doesn't make the process more difficult it only allows you to create a VM while navigating through less pages.
+
+<img src="Folder/New-VM.jpg">
  
 I am going to specify a name of "MyVM" and 2048 MB (2gb) of RAM then I will click Create.
  
