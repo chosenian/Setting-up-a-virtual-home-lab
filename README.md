@@ -40,6 +40,9 @@ There is no "best" virtualization software. There are simply different options -
  
 <h2>Downloading and Installing VirtualBox</h2> 
 Download Oracle VM VirtualBox by clicking <a href="https://www.virtualbox.org/wiki/Downloads"=blank">here</a>. Once the download completed, I launched the installation.
+
+
+
  
 I Proceeded through the installation using all of the default options. Any prompts that are a yes/no you need to select "yes'.
  
