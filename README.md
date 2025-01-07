@@ -109,6 +109,7 @@ This network is the same as NAT, but it allows your VMs to communicate to other 
 <p>You can create a NAT Network by clicking on File > Preferences. Select the Network tab and then click the plus button to create a new NAT Network.</p>
 
 
+<img src="Folder/NAT-Network.jpg">
  
 
 <h2>Bridged Adapter</h2>
