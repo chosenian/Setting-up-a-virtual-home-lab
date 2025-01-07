@@ -4,7 +4,7 @@ I built a free virtual IT lab from scratch on my home computer using open-source
 <p> </p>
  <p>In the early 2000s the only way one could have built an IT lab was to purchase physical servers or re-purpose old computers. While this can be very beneficial as far as IT experience and skills, it can be much faster simply to build a free virtualized IT lab.</p>
  
-Let's dive in!
+ Let's dive in!
 
 <h2>Index</h2>
 <ul>                  
@@ -20,7 +20,8 @@ Let's dive in!
 
 
 <h2>Virtualization Overview</h2>
-So what is virtualization anyway? Basically, the IT term virtualization refers to the practice of emulating (or simulating) a computer. You can use a Virtual Machine to run a computer as an application on your host computer.
+
+<strong>So what is virtualization anyway?</strong> Basically, the IT term virtualization refers to the practice of emulating (or simulating) a computer. You can use a Virtual Machine to run a computer as an application on your host computer.
 On the image below - the top computer would be the host computer. The three computers below the host are referred to as guest virtual machines.
 
 <img src="Folder/Host+3 guest virtual machines.png">
