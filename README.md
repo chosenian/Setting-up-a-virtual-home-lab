@@ -138,6 +138,9 @@ I am going to use a NAT Network since this will allow me to connect my VMs to ea
 First I will select File > Preferences, then navigate to the Network tab. Next I will click the plus button (circled in the image above).
 
 This will create a new NAT Network. If I want to modify the subnet, disable DHCP or support IPv6 I can do this by double-clicking the NAT Network.
+
+
+<img src="Folder/NAT-Network-2.jpg">
  
 
 I am going to leave all of these options at default... so I am done creating the Virtual Network!
