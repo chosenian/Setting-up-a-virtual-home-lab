@@ -6,20 +6,27 @@ In the early 2000s the only way one could have built an IT lab was to purchase p
  
 Let's dive in!
 
-<h2>Index
-⦁	Virtualization Overview
-⦁	Free Virtualization Software
-⦁	Downloading and Installing VirtualBox
-⦁	Creating a Virtual Network
-⦁	Creating a Virtual Machine
-⦁	Downloading Your operating systems ISO(s)
-⦁	Installing an OS on Your Lab VMs
-⦁	Conclusion
+<h2>Index</h2>
+<ul>                  
+<li>Virtualization Overview</li>
+	<li>Free Virtualization Software</li>
+	<li>Downloading and Installing VirtualBox</li>
+	<li>Creating a Virtual Network</li> 
+	<li>Creating a Virtual Machine</li>
+	<li>Downloading Your operating systems ISO(s)</li>
+	<li>Installing an OS on Your Lab VMs</li>
+	<li>Conclusion</li>
+</ul>
 
 
-Virtualization Overview
+<h2>Virtualization Overview</h2>
 So what is virtualization anyway? Basically, the IT term virtualization refers to the practice of emulating (or simulating) a computer. You can use a Virtual Machine to run a computer as an application on your host computer.
- 
+
+
+
+
+
+ 
 On the image below - the top computer would be the host computer. The three computers below the host are referred to as guest virtual machines.
  
 Virtual machines act like real computers, but run as a software program. So you can start, restart, shut down, install software and operating systems just like you would on a normal computer.
